@@ -1,8 +1,5 @@
 # LLaVA OneVision
 
-- **NLVR2 (LLaVA-OneVision-72B):** [![Papers with Code: LLaVA-OneVision-72B on NLVR2](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge.svg?eval=7144&live=1)](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge-link?eval=7144)
-- **CLIP-CC-Bench (LLaVA-OneVision-7B, 8 frames):** [![Papers with Code: LLaVA-OneVision-7B on CLIP-CC-Bench](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge.svg?eval=28575&live=1)](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge-link?eval=28575)
-
 ## Model Details
 
 LLaVA OneVision is a multi-modal model capable of processing images, text, image-text interleaved inputs, and videos. The model is trained in multiple stages:
@@ -38,6 +35,13 @@ We use the [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) toolkit to
 Install lmms-eval:
 
 > pip install git+https://github.com/EvolvingLMMs-Lab/lmms-eval.git
+
+### Leaderboard results
+
+Live leaderboard badges on Papers with Code:
+
+- **NLVR2 (LLaVA-OneVision-72B):** [![Papers with Code: LLaVA-OneVision-72B on NLVR2](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge.svg?eval=7144&live=1)](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge-link?eval=7144)
+- **CLIP-CC-Bench (LLaVA-OneVision-7B, 8 frames):** [![Papers with Code: LLaVA-OneVision-7B on CLIP-CC-Bench](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge.svg?eval=28575&live=1)](https://paperswithcode.co/api/v1/papers/2408.03326/leaderboard-badge-link?eval=28575)
 
 ### Reproducing Evaluation Results
 
